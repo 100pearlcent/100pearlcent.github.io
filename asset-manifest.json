@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c07a5120.css",
+    "main.js": "/static/js/main.ae84298c.js",
+    "static/media/icon_react.png": "/static/media/icon_react.6b17fad47cef4d21567e.png",
+    "static/media/icon_node.png": "/static/media/icon_node.84eddd16512ab9ecb4b6.png",
+    "static/media/icon_so.png": "/static/media/icon_so.5003a3f8a95da4e9a881.png",
+    "static/media/icon_ts.png": "/static/media/icon_ts.20d7e3c097043d191f73.png",
+    "static/media/icon_sass.png": "/static/media/icon_sass.3d956453ee77a546a923.png",
+    "static/media/icon_python.png": "/static/media/icon_python.20b93544ce75a6faa9cc.png",
+    "static/media/icon_git.png": "/static/media/icon_git.a681798bddb1f3e4c65f.png",
+    "static/media/mockup_coov.png": "/static/media/mockup_coov.f38ccd025d20f6cdf3ff.png",
+    "static/media/icon_github.png": "/static/media/icon_github.f6a0e4db4c9d0f7d15bb.png",
+    "static/media/FontsFree-Net-Poppins-Medium.woff2": "/static/media/FontsFree-Net-Poppins-Medium.2df8bcd8d8445c66b8d1.woff2",
+    "static/media/coolvetica rg.woff2": "/static/media/coolvetica rg.e79d8ea26d82c9e95863.woff2",
+    "static/media/StretchPro.woff2": "/static/media/StretchPro.04120f0b91e4da582294.woff2",
+    "static/media/Fogsta.woff2": "/static/media/Fogsta.b1ed8e207d9d7f1f5068.woff2",
+    "static/media/TS Block Bold.woff2": "/static/media/TS Block Bold.fb4fa7e22ba71c1acdd5.woff2",
+    "index.html": "/index.html",
+    "main.c07a5120.css.map": "/static/css/main.c07a5120.css.map",
+    "main.ae84298c.js.map": "/static/js/main.ae84298c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c07a5120.css",
+    "static/js/main.ae84298c.js"
+  ]
+}
